@@ -1,0 +1,32 @@
+yazılımın düzgün bir şekilde çalışması için kesinlikle yapılması gerekenler;
+
+0- başlamadan önce:
+  *) 
+    linux paket yükleyicisi ile indirilmesi gereken kütüphaneleri indirmek için
+    setup.sh dosyasının içindeki komutları girebilirin.
+
+  **)
+    
+
+1- pigpiod tanımlaması:
+
+    program pigpio ile işlem yapıyor, bu yüzden;
+    raspberry pi her baştan başlatıldığından "sudo pigpiod" komutu terminale girilmedir
+    bu komut girilmeden program başlatılmaya çalışılırsa hata verecektir.
+
+----
+2- requirements.txt:
+
+    gerekli olan kütüphanelerin indirilmesi için program ile birlikte yollanılan "requirements.txt" dosyası çalıştırılmalıdır.
+    Aksi takdirde program kütüphane hatası verecek ve kapanacaktır.
+    çalıştırma komutu "pip3 install -r -requirements.txt"
+
+----
+3- programı çalıştırma:
+
+    Programın düzgün bir şekilde çalışması için, terminal arayüzü kullanılmalıdır. 
+    Raspberry Pi içinde varsayılan olarak gelen ve python programlamaya yarayan IDE (araştırılabilir, adı Thonny),
+    programlama ve programı çalıştırma konusundan kolaylık sağlamaktadır fakat program hata verdiğinde programı kapatmak yerine suspend moda almaktadır.
+    Bu da bir sonraki çalıştırma seferinde "program zaten çalışıyor" hatası alınmasına sebep olmaktadır.
+    çalıştırma komutu "python3 interp.py"
+

@@ -1,0 +1,5 @@
+PCA9685	Servo
+PWM 15	Finger servo
+PWM 14	Wrist servo
+PWM 11	Arm servo
+PWM 10	Base servo

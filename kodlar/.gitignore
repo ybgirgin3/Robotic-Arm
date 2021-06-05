@@ -1,0 +1,5 @@
+*.png
+*.jpg
+.ipynb_checkpoints
+yolo/
+trash/

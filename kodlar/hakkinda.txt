@@ -1,0 +1,12 @@
+  program en başında bir tane resim ve o resimdeki cismin uzaklığı ile boyutu verildikten sonra diğerlerini hesaplıyor.
+  servoların sağ sol ayarları ile bir tam ortalama işlemi tamamlandıktan sonra bir süre sonra diğer servoların ağır ağır çalışıp cisme yönelmesini sağlayabilirim. 
+  Bu yöntem ile gereksiz fazla modüllere gerek kalmaz
+
+
+
+
+
+
+
+
+eğer deniz altının cisme yaklaşma kısmı ile ilgili kesin bir şey elde edebilirsem (ne kadar yaklaşıyor, nasıl yaklaşıyor, yaklaştıktan sonra ne tepki veriyor bunlar çok önemli) robot kol için de ona göre statik bir şeyler çıkarabilirim. hem hocasının hem de adamın gözü boyanmış olur iş tamamlanmış olur. paramı direkt olarak alabilirim

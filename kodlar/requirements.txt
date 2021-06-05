@@ -1,0 +1,5 @@
+termcolor
+scikit-image
+numpy
+imutils
+opencv-python

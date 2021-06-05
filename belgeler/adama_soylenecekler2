@@ -1,0 +1,106 @@
++ olarak istenilenler
+========================
+söylenecekler:
+
+Şimdi projenin ilk konuştuğumuz kısmının bitmiş olduğunu varsayalım.
+Görüntü işleme kısmı tamamen düzgün bir şekilde çalışıyor ve servo motorların kontrolünü sağlayabiliyor olalım ve geriye tek kalan deniz altı ile entegre etme kısmı olsun.
+
+deniz altı zaten var olan bir proje olduğundan dolayı o proje hakkında da kısmen detaylı bilgilere sahip olmam gerekli. 
+  örneğin;
+  1- tam olarak kullanılan servo sayısı,
+  2- su altında hareketi sağlayan motorların modeli türü, nasıl enerji sağlandıkları,
+  3- deniz altının su altında hareket etmesini sağlayan beyin elektronik, yazılımı (en azından benzeri) hakkında örnekler veya bilgiler gerekli
+
+  bunları istememin sebebi ise şu;
+    deniz altı zaten kendi başına bir proje olduğundan onun aktif olarak çalıştığını baz alarak planlama yaptık.
+    eğer olurda deniz altı çalışmıyorsa bu kendi başına büyük bir proje olduğundan onu da ayrı bir şekilde planlama, prototipleme ve fiyatlandırma işlemlerinden geçirmemiz gerekir.
+
+
+
++ olarak alınacak olan para
+işin %50 si
+
+TAM OLARAK SOYLENECEKLER
+Murat Bey,
+
+
+sizinle konuştuktan sonra çizdiğimiz yolu tekrardan gözden geçirdim. Konuşmamız da iki projenin de tam olarak birbirine entegre olabileceği bir düzeye gelmesini istediğinizi söylediniz ve ona göre bir fiyat çıkarmamı istediniz.
+
+Şimdi projenin ilk konuştuğumuz kısmının bitmiş olduğunu varsayalım.
+Görüntü işleme kısmı tamamen düzgün bir şekilde çalışıyor ve servo motorların kontrolünü sağlayabiliyor olalım ve geriye tek kalan deniz altı ile entegre etme kısmı olsun.
+
+deniz altı zaten var olan bir proje olduğundan dolayı o proje hakkında da kısmen detaylı bilgilere sahip olmam gerekli. 
+  örneğin;
+  1- tam olarak kullanılan servo sayısı, ve tam olarak nasıl kontrol edildikleri
+  2- su altında hareketi sağlayan motorların modeli türü, nasıl enerji sağlandıkları,
+  3- deniz altının su altında hareket etmesini sağlayan beyin elektronik (bu başka bir raspberry, arduino veya stm32 kartı olabilir), yazılımı (en azından benzeri) hakkında örnekler veya bilgiler gerekli
+
+  bunları istememin sebebi ise şu;
+    deniz altı zaten kendi başına bir proje olduğundan onun aktif olarak çalıştığını baz alarak planlama yaptık.
+    eğer olurda deniz altı çalışmıyorsa ve o da bu projeye dahil edilecek ise o da kendi başına büyük bir proje olduğundan onu da ayrı bir şekilde planlama, prototipleme ve fiyatlandırma işlemlerinden geçirmemiz gerekir.
+
+
+  var olan projenin entegrasyonu için her iki proje hakkında bilgi sahibi olmak, kısmende olsa projeye hakim olmak gerektiğinden dolayı aynı anda iki proje yapmak gibi düşünebiliriz fakat adı üstünde zaten var olan projelerin entegrasyonu için hesaplanan tutar, her iki projenin sıfırdan yapılması için hesaplanan paranın %50'si kadarını kapsar.
+  
+  yani bu kısımdaki entegrasyon işlemleri için tutara eklenecek olan fiyat;
+    sizin projenizin tutarının %50'si + deniz altı aracının sıfırdan yapımının tutarının %50'si
+
+
+  deniz altı aracı için konuşmalarımızda 4 tane servo motor + onların ayrı ayrı kontrol yazılımı olduğunda bahsettiniz. bu kısım için ücret çıkaracak olursak eğer size attığım fiyat listesinin Yazılım kategorisinin 1,2,3 ve Elektronik kategorisinin 1 ve 3. maddesine dahil oluyor yani;
+    
+   
+   yazılım
+   =========
+   X 1- Sıfırdan Raspberry Pi kurulumu                          : 120 TL
+   2- Basit raspberry pi kurulumu ve pin konfigürasyonu       : 79 TL
+   3- Sadece Raspberry içinde çalışacak çevrimdışı scriptler  : 199 TL
+
+
+  elektronik
+  ==========
+  X 1- Sıfırdan Devre Tasarımı  : 159,99 TL
+  3- Elektronik Yazılım Üretimi, Test, Hataların Giderilmesi  : 399,99 TL
+  
+  burdan toplam tutar : 957,98 TL yapıyor. 
+    bunun %50'si ise : 478,99 TL yapıyor (1)
+    338,995 TL
+
+
+  bizim projemiz 677 TL tutmuştu onunda %50'sini alırsak;
+    338,5 TL yapıyor. (2)
+
+
+    yani entegrasyon için eklenecek olan tutar : 478,99 TL + 338,5 TL
+                                           = 817,49 TL tutuyor
+                                           677 TL
+
+  proje bu haliyle (sizin projenizin tutarı + entegrasyon tutarı); 
+              677 TL + 817,49 TL = 1.494,49 TL yapıyor.
+              1.354, 995 TL
+
+
+  benden istediğiniz ilk proje de ilk etapda sadece görüntü işleme kısmı için konuştuğumuzdan ve servoların kontrolleri dahil edilmediğinden dolayı, elektronik kategorisindeki 1. madde olan: "Sıfırdan elektronik devre tasarımı" maddesi size attığım fiyatlandırma ile ilgili ilk mesajda yok. ama o fiyatta herhangi bir oynama yapmayacağız.
+
+
+
+soylenecekler3
+
+Murat Bey,
+
+raspberry kurulumunu (120 TL) ve sıfırdan devre tasarımı (159,99 TL) maddelerini listeden çıkardığımız zaman hesaplamaları şöyle değişiyor;
+  size attığım listeden yazılım kategorisinden 1. madde, elektronik kategorisinden 1. maddeyi çıkarıyoruz.
+  dolayısıyla deniz altı için hesaplanan yeni fiyat;
+    79 + 199 + 399,99 = 677,99 TL 
+                    %50'si = 338,995 TL oluyor
+
+    robotik kol için hesapladığımız paranın %50'si ile toplarsak (677 / 2 = 338,5 TL)
+
+    338,5 + 338,995 = 677,495 TL oluyor.
+
+    toplamında ise; 
+      677,495 + 677 = 1.354,495 TL oluyor
+
+
+
+soylenecekler4
+attığınız otonom kodundan anladığım kadarıyla kameradan top benzeri cisim bulup ona doğru hareket ediyor sanırım

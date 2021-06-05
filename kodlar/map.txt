@@ -1,0 +1,23 @@
+adama sorulacaklar:
+  deniz altı hedefteki cismi tanıdıktan sonra tepkisi tam olarak ne oluyor
+    - üzerine gidip belirli bir mesafede duruyor mu ?
+
+
+
+# benim için olan kısım
+yangın algılama kısmında 2 tane olan servo kontrolünü 4'e çıkarmalıyım. bunun için;
+  https://osoyoo.com/ja/2021/01/03/39067/
+  sanal koordinatları, gerçek dünya koordinatlarına dönüştürmek gerekiyor
+  benim kodları ile tam ortaladıktan sonra robotik kolun servolarını objeye atak yaptırmak en kolay çözüm olacak gibi, bulduğum ve klonladığım repolar "inanılmaz" karmaşık her şeyi kendileri yazmışlar hiç doğru düzgün built-in veya external kütüğhane kullanmamışlar
+
+
+
+
+
+  ### yol haritası ####
+
+  1- sağ sol için çalışan servolar ile cismi tam olarak ortala,
+  2- dirsek ve bilek için olan servolar ile de cisim üzerinde hücum yap, bunun için sanal koordinatları gerçek koordinatlara dönüştürme kısmı işe yarayabilir
+
+
+

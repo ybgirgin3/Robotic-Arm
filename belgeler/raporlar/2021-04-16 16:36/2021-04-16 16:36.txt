@@ -1,0 +1,19 @@
+Robotik Kol Ara Rapor
+
+İzlenilen yol:
+
+1- servoların kontrolü
+İzlediğimiz yol basit olarak opencv üzerinden renk algılama mantığı üzerine kurulu. Algıladığımız rengin resim karesindeki koordinatlarını piksel bazlı olarak bularak; resim karesinin genişliği, yüksekliği ile harmanlayıp interpolasyon yöntemleri ile çözüm sağlayan numpy kütüphanesinin yardımı ile servo motorlara gereken hareketi vermek olarak anlatılabilir.
+
+
+
+
+2- rengin algılanması
+  Saf opencv kullanarak rengin algılanması metodu kullanılmaktadır. Renkler nümerik dünyada hexadecimal olarak tanımlandıklarından dolayı numerik olarak yazılım anlayacağı formata çeviren numpy kütüphanesi dizisi olarak alt ve üst renk sınırlarını belirledik. Bunlar yazılım dosyası içinde lowRed ve highRed olarak isimlendirilmiştir.
+
+  Bu belirlediğimiz belirlediğimiz sınırları yine opencv'nin rengi ayırt edebilmesi için inRange fonksiyonu ile alt ve üst sınırların numerik anlamını opencv ye bildirdik. Buna renk maskesi adı verilmektedir
+
+
+  Bu işlemlerden sonra aslında videodan veya kameradan elde edilen herbir resim karesini bir tuval üzerinde çizilmiş olan bir eser gibi düşünebiliriz. Bu adımdan sonra kontür verme işlemleri kalıyor
+
+  resim karesi içindeki nesnelerin hepsinden verdiğimiz aralık içindeki renk değerlerine sahip olanlarını cv2.rectangle komutu ile kare içine almak olarak anlatılabilir

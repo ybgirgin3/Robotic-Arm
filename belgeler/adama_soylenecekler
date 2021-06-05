@@ -1,0 +1,25 @@
+Murat Bey, Attığınız dosyaları inceledim ve notlar aldım.
+
+En başından dediğim gibi robotik kol ile ilgili detaylı bilgim yok fakat robotik kolun kontrolü için gerekli olan kodları da (servo motor kullanılacak diye tahmin ediyorum) halletmeye çalışırız. Attığınız tezler bayağı detaylı güzel bilgiler vermişler ama o tez anlatım kısmında genelde servo motorun yapısı raspberry pi'nin kurulumu gibi bilgiler olduğundan dolayı o kısmı sizin halletmeniz gerekecek ama benim yapmamı isterseniz o kısmı da dahil ederiz.
+
+Sizin ihtiyacınıza göre çıkardığım listede:
+  1- raspberry pi ayarlanması                 : 79 TL (?)    -> (basit raspberry pi kurulumu, pin konfigürasyonu)
+  2- görüntü işleme yazılımı                  : 399,99 TL    -> (Elektronik Yazılım Üretimi, Test, Hatalarının Giderilmesi)
+  3- raspberry pi ve yazılım entegrasyonu     : 199 TL (?)   -> (sadece raspberry pi içinde çalışacak çevrimdışı script)
+  
+  + olarak istenilenler
+  en başında konuştuğumuz yeri yani görüntü işleme kısmı tamamlandıktan sonra tam anlamıyla deniz altına bağlamamız aslında iki tane projeyi entegre etmek anlamına gelmektedir bunun için de deniz altının da özellikleri (tam olarak kullanılan servo motor sayısı, servo motorları için kullanılan yazılım), mümkünse deniz altının çalışmasında kullanılan ana yazılımı ya da benzer örneği elimde olmalı
+
+
+  
+   şeklinde bir liste çıkardım. Yaklaşık 4 aydır müşterilerime sunduğum fiyatlandırma listesini de ek olarak paylaşıyorum sizinle (sadece sizin ihtiyacınız olan maddeler) ordan da kontrol edebilirsiniz.
+
+   Çıkardığım listeye göre fiyatlandırma şöyle oluyor;
+
+      79 + 399,99 + 199 = 677 TL 
+
+
+
+
+dipnot :
+(?) : fiyatlandırma basit kurulum için yapılmıştır için yapılmıştır.

@@ -1,0 +1,26 @@
+Genel olarak baktığımızda kodumuz şu şekilde işleyecektir:
+
+1- görüntüyü elde etme:
+  =====================
+  raspberry pi kamerası kullanılarak, opencv üzerinden resim karelerinin alınması mantığı kullanılmaktadır.
+
+2- ön işleme:
+  ===========
+  kamera üzerinden alınan görüntüyü, resim karelerine ayrıştırıp, o resim kareleri üzerinden tanımlamış olduğumuz alt ve üst kırmızı renk değerleri arasındaki renk skalasına dahil olan değerdeki renklerin olduğu kısımları işaretleyip diğer kısımlar görmezden geliyor.
+
+3- öznitelik çıkarma:
+  ==================
+  resim karesi üzerinden işaretlenmiş olan kırmızı bölgenin genişlik, yükseklik gibi değerlerini alıp resim karesinin aynı değerleri üzerinden hesaplama yaparak tam konumunu hesaplar. bu hesabın sonucu pozitif veya negatif olabilir. bu hesaplamalara kırmızı cismin resim karesinin ne kadar uzaklıkta olduğunu hesaplar.
+
+4- nesne takibi
+  ==============
+  opencv kütüphanesinin "findContours" fonksiyonu ile maskeleme yöntemi kullanılarak, kırmızı cisimlerin köşe çizgileri bulunmuş ve bir üst maddedeki hesaplamalar yapıldıktan sonra Raspberry Pi üzerindeki servo motorların çalışması için kullanılan PIGPIO isimli kütüphane üzerinden GPIO pinlerine bağlı olan servo motorlara bir üst maddede hesaplanmış olan değerler doğrultusundan komutlar verilir.
+
+  "findContours":
+  -----------------
+  resmi sitesin: https://docs.opencv.org/master/d4/d73/tutorial_py_contours_begin.html
+  tanımlanan genişlik ve yükseklik değerleri doğrultusundan geçici olarak tanımlanan değerleri kalıcı hale getirmek için o değerlere denk gelen piksellerin işaretlenmesi yöntemidir.
+
+
+
+

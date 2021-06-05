@@ -1,0 +1,436 @@
+
+                object: x: 362, y: 291
+                        w: 2, h: 1
+                
+                object: x: 348, y: 253
+                        w: 1, h: 1
+                
+                object: x: 354, y: 227
+                        w: 8, h: 3
+                
+                object: x: 266, y: 240
+                        w: 8, h: 8
+                
+                object: x: 358, y: 273
+                        w: 4, h: 2
+                
+                object: x: 267, y: 235
+                        w: 5, h: 7
+                
+                object: x: 372, y: 285
+                        w: 4, h: 2
+                
+                object: x: 362, y: 287
+                        w: 2, h: 1
+                
+                object: x: 274, y: 254
+                        w: 2, h: 3
+                
+                object: x: 274, y: 228
+                        w: 2, h: 1
+                
+                object: x: 370, y: 273
+                        w: 6, h: 4
+                
+                object: x: 274, y: 215
+                        w: 2, h: 2
+                
+                object: x: 276, y: 220
+                        w: 1, h: 1
+                
+                object: x: 272, y: 232
+                        w: 3, h: 3
+                
+                object: x: 272, y: 233
+                        w: 6, h: 4
+                
+                object: x: 272, y: 224
+                        w: 5, h: 7
+                
+                object: x: 358, y: 288
+                        w: 8, h: 5
+                
+                object: x: 275, y: 222
+                        w: 9, h: 8
+                
+                object: x: 276, y: 222
+                        w: 8, h: 10
+                
+                object: x: 364, y: 281
+                        w: 10, h: 5
+                
+                object: x: 280, y: 229
+                        w: 6, h: 13
+                
+                object: x: 281, y: 220
+                        w: 5, h: 10
+                
+                object: x: 282, y: 223
+                        w: 8, h: 16
+                
+                object: x: 284, y: 225
+                        w: 4, h: 8
+                
+                object: x: 285, y: 218
+                        w: 7, h: 18
+                
+                object: x: 286, y: 226
+                        w: 8, h: 21
+                
+                object: x: 286, y: 232
+                        w: 8, h: 21
+                
+                object: x: 296, y: 271
+                        w: 8, h: 11
+                
+                object: x: 308, y: 269
+                        w: 20, h: 16
+                
+                object: x: 286, y: 219
+                        w: 8, h: 29
+                
+                object: x: 286, y: 214
+                        w: 8, h: 26
+                
+                object: x: 288, y: 221
+                        w: 8, h: 21
+                
+                object: x: 288, y: 225
+                        w: 8, h: 19
+                
+                object: x: 312, y: 247
+                        w: 20, h: 8
+                
+                object: x: 288, y: 219
+                        w: 12, h: 35
+                
+                object: x: 288, y: 227
+                        w: 10, h: 27
+                
+                object: x: 288, y: 240
+                        w: 8, h: 11
+                
+                object: x: 288, y: 215
+                        w: 8, h: 31
+                
+                object: x: 288, y: 215
+                        w: 8, h: 31
+                
+                object: x: 287, y: 219
+                        w: 8, h: 17
+                
+                object: x: 141, y: 266
+                        w: 32, h: 15
+                
+                object: x: 167, y: 386
+                        w: 103, h: 63
+                
+                object: x: 198, y: 247
+                        w: 126, h: 126
+                
+                object: x: 120, y: 204
+                        w: 240, h: 224
+                
+                object: x: 88, y: 189
+                        w: 295, h: 235
+                
+                object: x: 92, y: 189
+                        w: 316, h: 225
+                
+                object: x: 108, y: 180
+                        w: 320, h: 222
+                
+                object: x: 122, y: 186
+                        w: 322, h: 205
+                
+                object: x: 133, y: 195
+                        w: 301, h: 188
+                
+                object: x: 144, y: 209
+                        w: 298, h: 161
+                
+                object: x: 154, y: 190
+                        w: 278, h: 170
+                
+                object: x: 166, y: 173
+                        w: 272, h: 175
+                
+                object: x: 182, y: 190
+                        w: 256, h: 153
+                
+                object: x: 188, y: 207
+                        w: 226, h: 129
+                
+                object: x: 189, y: 197
+                        w: 245, h: 132
+                
+                object: x: 194, y: 205
+                        w: 222, h: 120
+                
+                object: x: 184, y: 178
+                        w: 250, h: 144
+                
+                object: x: 200, y: 179
+                        w: 232, h: 142
+                
+                object: x: 202, y: 179
+                        w: 220, h: 141
+                
+                object: x: 178, y: 179
+                        w: 266, h: 142
+                
+                object: x: 196, y: 176
+                        w: 244, h: 143
+                
+                object: x: 105, y: 122
+                        w: 444, h: 224
+                
+                object: x: 48, y: 120
+                        w: 498, h: 224
+                
+                object: x: 52, y: 111
+                        w: 504, h: 242
+                
+                object: x: 131, y: 123
+                        w: 375, h: 216
+                
+                object: x: 111, y: 127
+                        w: 399, h: 218
+                
+                object: x: 128, y: 125
+                        w: 394, h: 214
+                
+                object: x: 142, y: 132
+                        w: 358, h: 214
+                
+                object: x: 138, y: 118
+                        w: 430, h: 227
+                
+                object: x: 124, y: 117
+                        w: 444, h: 229
+                
+                object: x: 124, y: 120
+                        w: 376, h: 228
+                
+                object: x: 138, y: 113
+                        w: 428, h: 222
+                
+                object: x: 136, y: 117
+                        w: 426, h: 225
+                
+                object: x: 132, y: 102
+                        w: 422, h: 244
+                
+                object: x: 84, y: 82
+                        w: 462, h: 253
+                
+                object: x: 86, y: 111
+                        w: 452, h: 223
+                
+                object: x: 60, y: 90
+                        w: 468, h: 254
+                
+                object: x: 90, y: 85
+                        w: 424, h: 260
+                
+                object: x: 80, y: 92
+                        w: 422, h: 249
+                
+                object: x: 54, y: 89
+                        w: 433, h: 259
+                
+                object: x: 68, y: 81
+                        w: 406, h: 262
+                
+                object: x: 70, y: 81
+                        w: 392, h: 265
+                
+                object: x: 86, y: 80
+                        w: 372, h: 257
+                
+                object: x: 53, y: 92
+                        w: 395, h: 246
+                
+                object: x: 20, y: 75
+                        w: 408, h: 264
+                
+                object: x: 34, y: 75
+                        w: 382, h: 273
+                
+                object: x: 32, y: 77
+                        w: 388, h: 265
+                
+                object: x: 12, y: 80
+                        w: 418, h: 257
+                
+                object: x: 6, y: 81
+                        w: 418, h: 258
+                
+                object: x: 24, y: 86
+                        w: 338, h: 239
+                
+                object: x: 18, y: 90
+                        w: 392, h: 251
+                
+                object: x: 6, y: 94
+                        w: 372, h: 236
+                
+                object: x: 0, y: 98
+                        w: 408, h: 235
+                
+                object: x: 0, y: 102
+                        w: 404, h: 239
+                
+                object: x: 4, y: 107
+                        w: 396, h: 229
+                
+                object: x: 0, y: 112
+                        w: 372, h: 225
+                
+                object: x: 0, y: 120
+                        w: 352, h: 202
+                
+                object: x: 0, y: 118
+                        w: 398, h: 217
+                
+                object: x: 6, y: 120
+                        w: 402, h: 219
+                
+                object: x: 10, y: 120
+                        w: 352, h: 205
+                
+                object: x: 0, y: 105
+                        w: 427, h: 226
+                
+                object: x: 0, y: 100
+                        w: 426, h: 240
+                
+                object: x: 0, y: 105
+                        w: 428, h: 230
+                
+                object: x: 16, y: 98
+                        w: 414, h: 241
+                
+                object: x: 18, y: 88
+                        w: 414, h: 249
+                
+                object: x: 28, y: 90
+                        w: 408, h: 247
+                
+                object: x: 48, y: 110
+                        w: 382, h: 224
+                
+                object: x: 64, y: 100
+                        w: 378, h: 243
+                
+                object: x: 80, y: 85
+                        w: 378, h: 252
+                
+                object: x: 96, y: 89
+                        w: 366, h: 245
+                
+                object: x: 114, y: 88
+                        w: 362, h: 247
+                
+                object: x: 124, y: 87
+                        w: 366, h: 245
+                
+                object: x: 138, y: 89
+                        w: 364, h: 247
+                
+                object: x: 152, y: 100
+                        w: 360, h: 231
+                
+                object: x: 168, y: 97
+                        w: 353, h: 236
+                
+                object: x: 172, y: 110
+                        w: 358, h: 221
+                
+                object: x: 112, y: 105
+                        w: 424, h: 231
+                
+                object: x: 184, y: 87
+                        w: 357, h: 250
+                
+                object: x: 156, y: 100
+                        w: 388, h: 237
+                
+                object: x: 146, y: 95
+                        w: 401, h: 233
+                
+                object: x: 130, y: 95
+                        w: 416, h: 249
+                
+                object: x: 168, y: 91
+                        w: 382, h: 252
+                
+                object: x: 186, y: 108
+                        w: 362, h: 224
+                
+                object: x: 192, y: 101
+                        w: 356, h: 243
+                
+                object: x: 158, y: 96
+                        w: 380, h: 246
+                
+                object: x: 116, y: 91
+                        w: 430, h: 255
+                
+                object: x: 182, y: 89
+                        w: 364, h: 256
+                
+                object: x: 157, y: 84
+                        w: 387, h: 262
+                
+                object: x: 188, y: 88
+                        w: 357, h: 257
+                
+                object: x: 172, y: 95
+                        w: 367, h: 251
+                
+                object: x: 180, y: 99
+                        w: 361, h: 242
+                
+                object: x: 178, y: 107
+                        w: 364, h: 231
+                
+                object: x: 184, y: 103
+                        w: 354, h: 242
+                
+                object: x: 148, y: 86
+                        w: 390, h: 256
+                
+                object: x: 168, y: 94
+                        w: 368, h: 245
+                
+                object: x: 148, y: 89
+                        w: 388, h: 257
+                
+                object: x: 174, y: 99
+                        w: 359, h: 241
+                
+                object: x: 180, y: 108
+                        w: 354, h: 235
+                
+                object: x: 177, y: 87
+                        w: 357, h: 249
+                
+                object: x: 167, y: 98
+                        w: 365, h: 240
+                
+                object: x: 170, y: 106
+                        w: 362, h: 237
+                
+                object: x: 172, y: 103
+                        w: 360, h: 241
+                
+                object: x: 167, y: 93
+                        w: 363, h: 248
+                
+                object: x: 172, y: 104
+                        w: 356, h: 237
+                
+                object: x: 172, y: 107
+                        w: 358, h: 234
+                
